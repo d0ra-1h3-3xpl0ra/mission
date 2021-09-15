@@ -1,2 +1,3 @@
 # mission
-fun times
+## fun times
+explore, collect, define, build, test, launch
